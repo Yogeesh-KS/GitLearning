@@ -1,1 +1,11 @@
 Hello World
+
+To initialize git in ubuntu
+$ sudo apt-get install git -y
+
+username, email and password
+$ git config --global user.name "Yogeesh-KS"
+$ git config --global user.email "gvegeta935@gmail.com"
+
+To list what ever configuration you have
+$ git config --list
