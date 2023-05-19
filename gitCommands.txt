@@ -1,6 +1,10 @@
 Hello World
-My GitHub Token : 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
+My GitHub Token : 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
+
+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
+
 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
+
 You can use this for HHTP password authentication
 
 To initialize git in ubuntu
