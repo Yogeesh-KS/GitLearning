@@ -2,6 +2,7 @@ Hello World
 
 To initialize git in ubuntu
 $ sudo apt-get install git -y
+(-y is used to give yes when it asks for yes/no while inastalling)
 
 username, email and password
 $ git config --global user.name "Yogeesh-KS"
@@ -18,7 +19,11 @@ $ git add filename.txt
 
 To commit the file
 $ git commit -m "Any message"
+(-m is used to give cooment or message)
 
 To clone a repository from github
 $ git clone <link of the repository>
+
+To check status of the repository
+$ git status
 
