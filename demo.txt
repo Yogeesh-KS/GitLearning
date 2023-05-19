@@ -9,3 +9,12 @@ $ git config --global user.email "gvegeta935@gmail.com"
 
 To list what ever configuration you have
 $ git config --list
+
+to see gitconfig file then got to home directory (optional)
+$ gedit .gitconfig
+
+To add the file for commit
+$ git add filename.txt
+
+To commit the file
+$ git commit -m "Any message"
