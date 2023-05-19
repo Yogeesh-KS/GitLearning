@@ -18,3 +18,7 @@ $ git add filename.txt
 
 To commit the file
 $ git commit -m "Any message"
+
+To clone a repository from github
+$ git clone <link of the repository>
+
