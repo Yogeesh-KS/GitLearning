@@ -1,4 +1,6 @@
 Hello World
+My GitHub Token : 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
+You can use this for HHTP password authentication
 
 To initialize git in ubuntu
 $ sudo apt-get install git -y
@@ -27,3 +29,18 @@ $ git clone <link of the repository>
 To check status of the repository
 $ git status
 
+Before push first time use this command
+git remote add origin <link of the repository>
+
+To push to the github repository
+$ git push -u origin master
+
+To initialize empty git repository in local machine
+$ git init
+
+To add the current directory to git
+$ git add .
+
+To get to know user name and email
+$ git config user.name
+$ git config user.email
